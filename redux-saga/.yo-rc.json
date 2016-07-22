@@ -1,0 +1,14 @@
+{
+  "generator-racket": {
+    "generatorVersion": "1.5.0",
+    "appName": "reduxSaga",
+    "filters": {
+      "sass": true,
+      "reduxSaga": true,
+      "reduxThunk": false,
+      "bootstrap": true,
+      "reactBootstrap": true,
+      "reduxForm": true
+    }
+  }
+}
